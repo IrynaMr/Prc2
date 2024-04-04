@@ -40,7 +40,7 @@ public class Main {
         }
         else {
             if (floor==2){
-                System.out.println("Ви піднялись на 4 поверх");
+                System.out.println("Ви піднялись на 3 поверх");
             } else {
                 System.out.println("Ви піднялись на" +floor+ "поверх");
             }
